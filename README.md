@@ -26,10 +26,12 @@ am/place is an interactive game inspired by [r/place](https://en.wikipedia.org/w
     "rgb": "#F2EA05"
   },
   {
-    "x": "6",
-    "y": "5",
-    "rgb": "#F2EA05"
+    "x": "85",
+    "y": "44",
+    "rgb": "#0593F2"
   }
+  {
+
 ]
 ```
 
